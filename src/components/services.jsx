@@ -320,7 +320,7 @@ const Services = () => {
     const startTime = Date.now(); // Start time measurement
 
     try {
-      const response = await fetch('http://127.0.0.1:5000/recommend', {
+      const response = await fetch('https://cropcarebackend.onrender.com/recommend', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
