@@ -9,7 +9,7 @@ import Contactpage from './components/contactpage'
 import Services from './components/services'
 import footer from './components/fotter'
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
-import Wheatpage from './components/wheatpage'
+import Wheatpage from './components/Wheatpage'
 import Ricepage from './components/Ricepage'
 import Cornpage from './components/Cornpage'
 import Carrotpage from './components/Carrotpage'
