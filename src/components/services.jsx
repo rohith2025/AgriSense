@@ -481,7 +481,7 @@ const Services = () => {
               Get the latest updates on crop trends, farming techniques, and expert advice.
             </p>
             <hr className="border-green-900" />
-            <p className="text-center text-green-700 text-base mt-1">Copyright © 2024 CropCare. All rights reserved.</p>
+            <p className="text-center text-green-700 text-base mt-1">Copyright © 2024 AgriSense. All rights reserved.</p>
           </div>
         </section>
       </div>
