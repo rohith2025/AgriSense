@@ -15,7 +15,7 @@ export const Navbar = () => {
           <NavLink to="/">
             <div className='flex items-center'>
               <img src="https://t4.ftcdn.net/jpg/04/02/65/15/360_F_402651530_GHSbS8AAPY1SbaZdWRC1rZkMifB8aJ9h.jpg" className="h-8" alt="CropCare Logo" />
-              <span className="ml-2 text-2xl font-semibold whitespace-nowrap dark:text-black">Crop Care</span>
+              <span className="ml-2 text-2xl font-semibold whitespace-nowrap dark:text-black">AgriSense</span>
             </div>
           </NavLink>
           <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
