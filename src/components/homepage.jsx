@@ -14,7 +14,7 @@ const HomePage = () => {
         {/* Hero Section */}
         <section className="hero bg-green-200 py-12 text-center">
           <div className="container mx-auto">
-            <h1 className="text-4xl font-bold text-green-800">Welcome to CropCare</h1>
+            <h1 className="text-4xl font-bold text-green-800">Welcome to AgriSense</h1>
             <p className="text-lg text-green-600 mt-4">
               Discover the best crop care advisor!
             </p>
