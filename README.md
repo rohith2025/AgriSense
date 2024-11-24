@@ -4,7 +4,7 @@
 ---
 
 ## **🚀 Overview**  
-AgriSense is a user-friendly web application designed to assist farmers and agriculturists in determining the most suitable crop to cultivate based on key inputs. By analyzing factors such as **soil type**, **location**, **budget**, and **season**, AgriSense provides data-driven recommendations to optimize crop yield and profitability.  
+AgriSense is a user-friendly web application designed to assist farmers and agriculturists in determining the most suitable crop to cultivate based on key inputs. By analyzing factors such as **soil type**, **location**, **budget**, **previous crop** and **season**, AgriSense provides data-driven recommendations to optimize crop yield and profitability.  
 
 ---
 
