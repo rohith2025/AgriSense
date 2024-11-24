@@ -25,7 +25,7 @@ const Aboutuspage = () => {
                 Empowering Farmers with Smart Crop and Fertilizer Solutions
                 </h2>
                 <p className="mt-6 text-gray-600">
-                  At CropCare, we are committed to empowering farmers with
+                  At AgriSense, we are committed to empowering farmers with
                   expert advice on crop selection and fertilizer usage, helping
                   them make informed decisions for healthier yields and
                   sustainable farming practices. Our platform offers
