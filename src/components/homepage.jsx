@@ -16,7 +16,7 @@ const HomePage = () => {
           <div className="container mx-auto">
             <h1 className="text-4xl font-bold text-green-800">Welcome to AgriSense</h1>
             <p className="text-lg text-green-600 mt-4">
-              Discover the best crop care advisor!
+              Discover the best crop advisor!
             </p>
             <Link to="/services" className="mt-6 inline-block px-6 py-2 bg-green-500 text-white font-semibold rounded-md hover:bg-green-600">
               Explore Advisor
