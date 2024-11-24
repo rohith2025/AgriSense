@@ -54,8 +54,7 @@ We welcome contributions to improve Agrisense!
 ---
 
 ## **🔗 Links**  
-- **Live Demo**: [Agrisense Live](https://agri-sense-sip.vercel.app/) _(Right-click and select "Open Link in New Tab" to open in a new tab.)_
-
+- **Live Demo**: [Agrisense Live](https://agri-sense-sip.vercel.app/)  
 
 ---
 
