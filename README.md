@@ -1,10 +1,10 @@
-# **Agrisense 🌾**  
+# **AgriSense 🌾**  
 *A Web Application for Smart Agricultural Decisions*  
 
 ---
 
 ## **🚀 Overview**  
-Agrisense is a user-friendly web application designed to assist farmers and agriculturists in determining the most suitable crop to cultivate based on key inputs. By analyzing factors such as **soil type**, **location**, **budget**, and **season**, Agrisense provides data-driven recommendations to optimize crop yield and profitability.  
+AgriSense is a user-friendly web application designed to assist farmers and agriculturists in determining the most suitable crop to cultivate based on key inputs. By analyzing factors such as **soil type**, **location**, **budget**, and **season**, AgriSense provides data-driven recommendations to optimize crop yield and profitability.  
 
 ---
 
@@ -18,8 +18,8 @@ Agrisense is a user-friendly web application designed to assist farmers and agri
 
 ## **📋 How to Use**  
 1. **Clone the Repository**:  
-   `git clone https://github.com/yourusername/agrisense.git`  
-   `cd agrisense`  
+   `git clone https://github.com/yourusername/AgriSense.git`  
+   `cd AgriSense`  
 
 2. **Install Dependencies**:  
    `npm install`  
@@ -43,7 +43,7 @@ Agrisense is a user-friendly web application designed to assist farmers and agri
 ---
 
 ## **🤝 Contributing**  
-We welcome contributions to improve Agrisense!  
+We welcome contributions to improve AgriSense!  
 
 1. **Fork the repository.**  
 2. **Create a new branch**:  
@@ -54,7 +54,7 @@ We welcome contributions to improve Agrisense!
 ---
 
 ## **🔗 Links**  
-- **Live Demo**: [Agrisense Live](https://agri-sense-sip.vercel.app/)  
+- **Live Demo**: [AgriSense Live](https://agri-sense-sip.vercel.app/)  
 
 ---
 
@@ -63,4 +63,4 @@ For inquiries or support, email us at: **yelurirohith2025@gmail.com**
 
 ---
 
-**Thank you for using Agrisense! Together, let's revolutionize agriculture with smart solutions.** 🌱  
+**Thank you for using AgriSense! Together, let's revolutionize agriculture with smart solutions.** 🌱  
